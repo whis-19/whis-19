@@ -12,9 +12,10 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif"  />
+<img align="right" height="225" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif"  />
 
 ###
+<h2 align="left">Tecnologies I have worked on...</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -41,6 +42,7 @@
 </div>
 
 ###
+<h2 align="left">Socials I use</h2>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -52,14 +54,9 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/whis-19/whis-19/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
-</div>
+
 
 ###
