@@ -2,7 +2,8 @@
 
 ##
 <br clear="both">
-
+<img align="right" height="225" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif"  />
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=whis-19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=whis-19&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -11,7 +12,6 @@
 
 ###
 
-<img align="right" height="225" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif"  />
 
 ###
 <h2 align="left">Tecnologies I have worked on...</h2>
