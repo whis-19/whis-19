@@ -10,9 +10,7 @@
 </div>
 
 ###
-📈 my github stats 📈
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hashimaliii&show_icons=true&theme=gotham" alt="whis-19" />
 <img align="right" height="225" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif"  />
 
 ###
