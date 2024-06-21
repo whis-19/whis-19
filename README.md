@@ -1,7 +1,6 @@
 <h2 align="left">Hi 👋! My name is Muhammad Abdullah and I'm a sophomore from FAST NUCES</h2>
 
-###
-
+##
 <br clear="both">
 
 <div align="center">
