@@ -63,11 +63,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+</div>
+
+<h2 align="left">Design Tools I have experience on...</h2>
+
+<div align="left">
+
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/illustrator/illustrator-line.svg" height="30" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/photoshop/photoshop-original.svg" height="30" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/premierepro/premierepro-original.svg" height="30" alt="premierepro logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/maya/maya-original.svg" height="30" alt="maya logo"  /> 
+  <img width="12" />
+  <img src="https://www.freeimages.com/icon/visio-5680680 height="30" alt="visio logo"  />  
 </div>
+
 
 
 <h2 align="left">Socials On which you can reach me</h2>
