@@ -83,7 +83,7 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/maya/maya-original.svg" height="30" alt="maya logo"  /> 
   <img width="12" />
-  <img src="https://www.freeimages.com/icon/visio-5680680 height="30" alt="visio logo"  />  
+  <img src="https://images.freeimages.com/fic/images/icons/2795/office_2013_hd/2000/visio.png" height="30" alt="visio logo"  />  
 </div>
 
 
