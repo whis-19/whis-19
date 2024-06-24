@@ -104,7 +104,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="https://x.com/23_whis" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
+    <img src="https://img.shields.io/static/v1?message=   X&logo   =X      &label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X logo" />
   </a>
     <a href="https://leetcode.com/u/whis-17/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=black&logoColor=yellow&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
