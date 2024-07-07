@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Muhammad Abdullah and I'm a sophomore from FAST NUCES</h2>
-<img src="https://camo.githubusercontent.com/42dce9e832d5d71296ef1ce716e62229f0ed0fa3843c9a43248ef885cb335487/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6e6173696631373331266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="whis-19" data-canonical-src="https://komarev.com/ghpvc/?username=whis-19&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
+<img src="https://komarev.com/ghpvc/?username=whis-19&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;" alt="whis-19" data-canonical-src="https://komarev.com/ghpvc/?username=whis-19&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
 <img align="right" height="225" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif"  />
 
 <ul dir="auto">
@@ -43,8 +43,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=whis-19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=whis-19&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whis-19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-<img src="https://camo.githubusercontent.com/2a9589cb0457414ef88850a2a98583809b8a50c5657c193888a34924ba7fc6d2/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d7468656162626965267468656d653d6769746875625f6461726b" alt="" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whis-19&amp;theme=github_dark" style="max-width: 50%;">
+<div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whis-19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph">
+</div>
+<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whis-19&amp;theme=dracula" style="width: 80%; height: 80%;" alt="GitHub Profile Summary">
+
 
 </div>
 
