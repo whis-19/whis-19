@@ -44,6 +44,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=whis-19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=whis-19&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whis-19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://camo.githubusercontent.com/2a9589cb0457414ef88850a2a98583809b8a50c5657c193888a34924ba7fc6d2/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d7468656162626965267468656d653d6769746875625f6461726b" alt="" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whis-19&amp;theme=github_dark" style="max-width: 50%;">
+
 </div>
 
 
