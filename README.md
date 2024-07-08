@@ -46,7 +46,7 @@
 <div style="display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whis-19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph">
 </div>
-<br>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whis-19&amp;theme=dracula" style="width: 80%; height: 80%;" alt="GitHub Profile Summary">
 
 
