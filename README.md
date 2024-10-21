@@ -4,7 +4,6 @@
 -->
 <img align="right" height="250" width="400" src="https://leetcard.jacoblin.cool/whis-17?theme=nord"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=whis-19" alt="whis-19's GitHub Trophy" style="max-width: 100%;">
 
 
 
@@ -59,6 +58,7 @@
 
 </div>
 
+<img src="https://github-profile-trophy.vercel.app/?username=whis-19" alt="whis-19's GitHub Trophy" style="max-width: 100%;">
 
 <h2 align="left">Tecnologies I have worked on...</h2>
 
