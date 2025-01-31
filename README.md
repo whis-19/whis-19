@@ -108,24 +108,41 @@
 <h2 align="left">Socials On which you can reach me</h2>
 
 <div align="left">
+  <!-- Instagram -->
   <a href="https://www.instagram.com/abdullah._.1_9/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+    <img src="https://imgs.search.brave.com/Nl779ABr3cHUpN3uIxQiythEcGtDoJvkMz7cvmqP59o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mcmVl/cG5nbG9nby5jb20v/aW1hZ2VzL2FsbF9p/bWcvMTcyNTgxOTQ2/MWluc3RhZ3JhbS1s/b2dvLnBuZw" height="35" alt="Instagram" style="border-radius: 10px;" />
   </a>
+
+  <!-- Discord -->
   <a href="https://discord.gg/jxq3NkK3Cd" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+    <img src="https://img.shields.io/badge/-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="Discord" style="border-radius: 10px;" />
   </a>
-  <a href="mailto:ma3472995@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+
+  <!-- Gmail -->
+  <a href="mailto:muhammadabdullahinbox@gmail.com">
+    <img src="https://imgs.search.brave.com/cCpF_LEwktblsjOHClwDhS_EKtYc5o8fS83RVvw3Irg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9nbWFpbC1p/Y29uLTI1NngyNTYt/bHA0ejRrejYucG5n" height="35" alt="Email" style="border-radius: 10px;" />
   </a>
-  <a href="www.linkedin.com/in/abdullah20112002" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+
+  <!-- LinkedIn (Blue & White Contrast) -->
+  <a href="https://www.linkedin.com/in/abdullah20112002" target="_blank">
+    <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG26.png" height="35" alt="LinkedIn" style="border-radius: 10px;" />
   </a>
+
+  <!-- X (Twitter) -->
   <a href="https://x.com/23_whis" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=   X&logo   =X      &label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X logo" />
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" height="35" alt="X" style="border-radius: 10px;" />
   </a>
-    <a href="https://leetcode.com/u/whis-17/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=&logo=leetcode&label=&color=black&logoColor=yellow&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/whis-17/" target="_blank">
+    <img src="https://imgs.search.brave.com/H4MF1IO9O_KTbMfrG0ugq1xDmJ3FBFObgXxqzZFz830/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzNt/bGdhL3N0eWxlcy9j/b21tdW5pdHlJY29u/XzgxZmdkcWZzbmJ3/OTEucG5n" height="35" alt="LeetCode" style="border-radius: 10px;" />
   </a>
+</div>
+
+
+
+
+
 
   
 </div>
