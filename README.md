@@ -34,7 +34,7 @@
     </p>
     <li>
     <p dir="auto">
-      📫 How to reach me <strong><a href="mailto:muhammadabdullahinbox@gmail.com">ma3472995@gmail.com</a>
+      📫 How to reach me <strong><a href="mailto:muhammadabdullahinbox@gmail.com">muhammadabdullahinbox@gmail.com</a>
       </strong></p>
   </li>
 
