@@ -18,13 +18,13 @@
   <li>
     <p dir="auto">
       🤝 I'm looking to collaborate on 
-      <strong>Global Software Development🖥️</strong>
+      <strong>research topics relevant to DL, state space models, satellite imagery or hyperspectral imaging</strong>
     </p>
   </li>
   <li>
     <p dir="auto">
       🧑‍💻 My major interest is 
-      <strong>AI and Automation</strong>
+      <strong>AI, Automation and ML-Ops</strong>
     </p>
   </li>
   <li>
@@ -34,7 +34,7 @@
     </p>
     <li>
     <p dir="auto">
-      📫 How to reach me <strong><a href="mailto:ma3472995@gmail.com">ma3472995@gmail.com</a>
+      📫 How to reach me <strong><a href="mailto:muhammadabdullahinbox@gmail.com">ma3472995@gmail.com</a>
       </strong></p>
   </li>
 
